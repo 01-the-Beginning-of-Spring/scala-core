@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="active-configuration" value="LOCAL_FILE:/Users/jacobzhao/Documents/checkstyle/foundation_checkstyle.xml:active-camps" />
+        <entry key="checkstyle-version" value="7.8.2" />
+        <entry key="copy-libs" value="false" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="location-2" value="LOCAL_FILE:/Users/jacobzhao/Documents/checkstyle/foundation_checkstyle.xml:active-camps" />
+        <entry key="property-2.checkstyle.suppressions.file" value="$USER_HOME$/Documents/checkstyle/foundation_suppressions.xml" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnly" />
+        <entry key="suppress-errors" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/jacob_space/gradle-4.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="jacobzhao" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scala-gradle.iml" filepath="$PROJECT_DIR$/scala-gradle.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
